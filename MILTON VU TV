@@ -85,7 +85,7 @@ https://d1jpd8j6nh8nwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturetimeemea-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/wBZXghyL/CLARO-SPORTS-VU-TV.png",➾ CLARO SPORTS SPORTS  TV * |HD|
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index_133.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/hP3ZfZY7/CITY-SPORTS-VU-TV.png",➾ CITY SPORTS  TV * |HD|
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/DZ53S1YQ/CITY-SPORTS-VU-TV.png",➾ CITY SPORTS  TV * |HD|
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 #EXTINF:-1  tvg-logo="https://www.viasatworld.com/media/1430/tv1000_action_rgb-vw.png",TV1000 Action
 http://89.254.128.5:22280/tv1000_action/video.m3u8
