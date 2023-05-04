@@ -127,33 +127,33 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 group-title="⭐PELICULAS⭐" tvg-logo="https://i.postimg.cc/63KTCX3j/ORIGEN-VU-TV.png",ORIGEN TV * | CL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png",Cosmos TV | AR
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/RCw6LJ4z/COSMOS-VU-TV.png",Cosmos TV | AR
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/F2Qv4Kt.png",Red TV
+#EXTINF:-1 group-title="FILMES" tvg-logo="https://i.postimg.cc/bYnFPPfR/RED-VU-TV.png",Red TV
 https://live.rednet.rs/providus/redtv_multi.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/T2S732Bx/fabulosa-fm990-espa-ol.png",FABULOSA FM 990 | AR
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/7h9j8v54/FABULOSA-FM-VU-TV.png",FABULOSA FM 990 | AR
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/y8ZLhHbJ/PLANETA-TV-VAGUA.png",Planeta TV | PE
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/6qGxkWkv/PLANETA-VU-TV.png",Planeta TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/76hsdjdP/TV-PRIME-Music.png",PRIME MUSIC TV
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/vmyJNCwH/TV-PRIME-MUSIC-VU-TV.png",PRIME MUSIC TV
 https://tv.clientetvstudio.net:3670/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NORTE" tvg-logo="https://i.postimg.cc/GpTyQjN0/TIV-TELEVISION.png",TIV TRES ISLETAS CHACO
+#EXTINF:-1 group-title="NORTE" tvg-logo="https://i.postimg.cc/s2C2J59d/TIN-TRES-ISLETAS-VU-TV.png",TIV TRES ISLETAS CHACO
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
-#EXTINF:-1 group-title="NORTE" tvg-logo="https://i.postimg.cc/Z5KgCWQv/MEGA-TV.png",MEGA TV CHACO
+#EXTINF:-1 group-title="NORTE" tvg-logo="https://i.postimg.cc/zXBYH7M2/MEGA-VU-TV.png",MEGA TV CHACO
 https://vivo.solumedia.com:19360/megatv/megatv.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg",MAKINA TV
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Ls850L0J/MAKINA-TV-VU-TV.png",MAKINA TV
 https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-#EXTINF:-1  tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png",LIM TV | PY
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/4NXKjYyR/LIM-TV-VU-TV.png",LIM TV | PY
 https://live.limplay.ml/limtv.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/5tVR6BzP/SUPER-TV.png",SUPER TV HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/PqcHzRp5/SUPER-TV-VU-TV.png",SUPER TV HD
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/RFHC64Ww/PLANETA-TV-Movies.png",PLANETA TV MOVIES
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/8kyCjtws/PLANETA-TV-MOVIES-VU-TV.png",PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.postimg.cc/DZX7kjpM/TV-SUR-CANAL9.png",CANAL 9 TV SUR HD
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://i.postimg.cc/Kz5vx5p7/CANAL-TV-SUR-VU-TV.png",CANAL 9 TV SUR HD
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/yYczZDgD/W-TV-NICARAGUA.png",WTV NICARAGUA TV * |HD|
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/sf6GWVKY/WTV-NICARAGUA-VU-TV.png",WTV NICARAGUA TV * |HD|
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.postimg.cc/3R0F9byh/sensacion-tv.png",SENSACION TV * |HD|
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.postimg.cc/BbThhMpF/SENSACION-VU-TV.png",SENSACION TV * |HD|
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/nztnjmsG/MULTIZONAS.png",MULTIZONAS TELEVISIÓN HD
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
