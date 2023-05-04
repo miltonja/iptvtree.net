@@ -25,21 +25,21 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 http://181.78.12.119:16123/play/a041/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/cJpg55WV/WIN-SPORTS-BALON-AZUL-VU-TV.png",➾ CO | Win Sports + FEB-11
 http://181.78.22.97:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo=https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png"",CO | Win Sports
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports
 http://181.175.41.170:8000/play/a0jq
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png",CO | Win Sports  HD
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports  HD
 http://177.93.60.43:5800/play/a0dg/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png",CO | Win Sports
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports
 http://179.1.87.75:8098/play/a03h/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png",CO | Win Sports
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports
 http://181.78.3.162:8000/play/a04g/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png",CO | Win Sports
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/38532
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo=https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png"",CO | Win Sports
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/q794LDDw/WIN-SPORTS-2-VU-TV.png",CO | Win Sports
 http://190.60.37.69:8015/play/a049/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png",CO | Win Sports
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/4NCwg6q0/WIN-SPORTS-1-VU-TV.png",CO | Win Sports
 http://201.222.44.220:4227/play/a00d/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png",CO | Win Sports
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/4NCwg6q0/WIN-SPORTS-1-VU-TV.png",CO | Win Sports
 http://181.224.161.138:1010/play/a00s/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA -PRIMERA A⚽" tvg-logo="https://i.postimg.cc/qvDzY44D/WIN-SPORTS-BOTON-AZUL.png",⚽| WIN SPORTS HD
 http://186.96.111.23:8000/play/a01b
@@ -57,9 +57,9 @@ http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQspOEnT_Skn947RIfOKKSlk
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQq547nOxLBBeWBO0waAuwzw
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/YCkB4bbt/MUSIC-CHOISSE-VU-TV.png",➾MUSIC CHOISE LATINO
 http://megaxplay.com:80/play/IAgS1GLAfPz2mVtdpC-jQkBgS19S-DTSG6z-NIdVCsQ
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/YCkB4bbt/MUSIC-CHOISSE-VU-TV.png",➾MUSIC CHOISE MEXICAN
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/ryC67wY5/MC-CHOISE-VU-TV.png",➾MUSIC CHOISE MEXICAN
 http://gamsgo.cyou:8080/Millenium/jnp6M5PkDnJQRz99/66101
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/YCkB4bbt/MUSIC-CHOISSE-VU-TV.png",➾MUSIC CHOISE TROPICALES
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/ryC67wY5/MC-CHOISE-VU-TV.png",➾MUSIC CHOISE TROPICALES
 http://gamsgo.cyou:8080/Millenium/jnp6M5PkDnJQRz99/148267
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/q7csJcjh/CABLE-NOTICIAS-VU-TV.png",CABLENOTICIAS | Bogotà | Cundinamarca
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
