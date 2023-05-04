@@ -155,7 +155,7 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.postimg.cc/BbThhMpF/SENSACION-VU-TV.png",SENSACION TV * |HD|
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/nztnjmsG/MULTIZONAS.png",MULTIZONAS TELEVISIÓN HD
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/zBZGmFK7/MULTIZONAS-VU-TV.png",MULTIZONAS TELEVISIÓN HD
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/q7hr1kqh/TV-QUINTA-REGION-ESP.png",QUINTA REGION TV HD
 https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
@@ -163,15 +163,15 @@ https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.postimg.cc/rppQFsWT/TELEMAX-RD.png",TELEMAX REPUBLICA DOMONICANA
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/q7hr1kqh/TV-QUINTA-REGION-ESP.png",QUINTA REGION * |HD|
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/RF7sGvvd/TV-QUINTA-REGION-VU-TV.png",QUINTA REGION * |HD|
 https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Kv9HjCL0/NEO-TV-MODIF.png",NEO TV DIGITAL 16.1 TDA
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/bwtLT1H8/NEO-TV-VU-TV.png",NEO TV DIGITAL 16.1 TDA
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/1z6GRsJL/MY-TIME-1.png",MY TIME MOVIES 1 TV * |HD|
+#EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/P53Rq1zk/MY-TIME-MOVIES-1-VU-TV.png",MY TIME MOVIES 1 TV * |HD|
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/k4mxBzHD/MY-TIME-2.png",MY TIME MOVIES 2 TV * |HD|
+#EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/251XL32L/MY-TIME-MOVIES-2-VU-TV.png",MY TIME MOVIES 2 TV * |HD|
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/ZnQCsjnt/RUN-TIME-1.png",RUNTIME
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/nrr1gPgj/RUN-TIME-VU-TV.png",RUNTIME
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.postimg.cc/02kyHPqZ/tvs-canal-22.png",TVS TV * |HD|
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
