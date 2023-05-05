@@ -5,13 +5,13 @@ http://45.141.194.9:9000/play/a01m/index.m3u8
 http://177.93.60.43:5800/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/mZCg4n36/WIN-SPORTS-PLUS-PRUEBA-VU-TV-PLAYER.png",➾ CO | Win + ABRIL 28
 http://179.1.87.75:8098/play/a044/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/QCcmVT8y/WIN-SPORTS-ROJO-VU-TV.png",➾ CO | Win + ABRIL 28
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/cCDv39xn/WIN-SPORTS-PLUS-ROJO-VU-TV.png",➾ CO | Win + ABRIL 28
 http://181.78.3.162:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/QCcmVT8y/WIN-SPORTS-ROJO-VU-TV.png",➾ CO | Win + ABRIL 28
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/cCDv39xn/WIN-SPORTS-PLUS-ROJO-VU-TV.png",➾ CO | Win + ABRIL 28
 http://190.95.220.212:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/mg6KCr5j/WIN-SPORTS-AMARILLO-VU-TV.png",➾ CO | Win + ABRIL 24
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/ZqqDF0xv/WIN-SPORTS-PLUS-AMARILLO-VU-TV-PLAYER.png",➾ CO | Win + ABRIL 24
 http://200.41.79.165:8000/play/a0js/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/1zycRxPQ/WIN-SPORTS-AZUL-CELESTEVU-TV.png",➾ CO | Win + ABRIL 20
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/ZqqDF0xv/WIN-SPORTS-PLUS-AMARILLO-VU-TV-PLAYER.png",➾ CO | Win + ABRIL 20
 http://201.222.44.220:4227/play/a022/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/W10mGNSr/WIN-SPORTS-VERDE-VU-TV.png",➾ CO | Win Sports + FEBRERO 25
 http://181.39.202.98:9993/play/a17i/index.m3u8
@@ -31,7 +31,7 @@ http://177.93.60.43:5800/play/a0dg/index.m3u8
 http://179.1.87.75:8098/play/a03h/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports
 http://181.78.3.162:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/v8zC6VCh/win-sports-blanco.png",CO | Win Sports
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/HnCsq0VN/WIN-PRUEBA-VU-TV-PLAYER.png",CO | Win Sports
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/38532
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/q794LDDw/WIN-SPORTS-2-VU-TV.png",CO | Win Sports
 http://190.60.37.69:8015/play/a049/index.m3u8
