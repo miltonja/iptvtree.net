@@ -225,7 +225,7 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/5Nnjdf7f/TOP-CINE-VU-TV.png",Top Cine olympusat | HD | Estados Unidos
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/y84pKzkr/TU-CINE-VU-TV.png",TU CINE
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/fbrYcTwB/TU-CINE-MUESTRA.png",TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/cHGgXXHj/CINE-REALVU-TV.png",CINE REAL HD | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
@@ -243,27 +243,27 @@ https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Hxv7g594/FLASH-VU-TV.png",FLASH MUSIC /HD/
 https://flash-plex.amagi.tv/flash/master.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png", Amordiscos TV | CO
+#EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://i.postimg.cc/FKyR1k5c/AMORDISCOS-VU-TV.png", Amordiscos TV | CO
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica | CO
+#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://i.postimg.cc/q7vnKd0j/TELEMUSICA-VU-TV.png", Telemusica | CO
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/aWvKJzr.png",Canal Visión Dorada
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/QdL0cCnS/CANAL-VISION-DORADA-VU-TV.png",Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/4d0qh3BF/PREGO-TV.jpg",PREGO TV FRonnyjaguar
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/DzNgyzsq/PREGO-TV-VU-TV.png",PREGO TV FRonnyjaguar
 https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/fLs5SSkD/SONY-NOVELAS.png",Sony Novelas | HD | Estados Unidos
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/Kzxxsmpy/SONY-NOVELAS-VU-TV.png",Sony Novelas | HD | Estados Unidos
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/sXJmYfZS/SONY-COMEDIAS-SAMSUMG.png",Sony Comedias | HD | Estados Unidos
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/0QnxThhK/SONY-COMEDIAS-VU-TV.png",Sony Comedias | HD | Estados Unidos
 https://spt-comedias-1-us.samsung.wurl.tv/1200.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/W4gX4wN5/SONY-COMPETENCIAS-SAMSUMG.png",Sony Competencias | HD | Estados Unidos
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/HnLHdBCZ/SONY-COMPETENCIAS-VU-TV.png",Sony Competencias | HD | Estados Unidos
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://latinartv.com/sites/default/files/logos/1026-tele-mix_orig.png",TELEMIX TV
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/ZnFXXNgb/TELE-MIX-VU-TV.png",TELEMIX TV
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
-#EXTINF:-1 group-title="Adultos" tvg-logo="https://i.imgur.com/4BLxN00.png",Miami TV Jenny For You | HD | Estados Unidos
+#EXTINF:-1 group-title="Adultos" tvg-logo="https://i.postimg.cc/ydNjXb4y/MIAMI-TV-VU-TV.png",Miami TV Jenny For You | HD | Estados Unidos
 https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Y0D9bNYk/HITO-CERO.png",HITO BAJO CERO TV
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/HsZCmf3b/HITO-BAJO-CERO-VU-TV.png",HITO BAJO CERO TV
 https://5ff3d9babae13.streamlock.net/8018/8018/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/pLf0nxwL/canal13san-jauan.png",CANAL 13 HD
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/NM3ZLcSz/CANAL-13-VU-TV.png",CANAL 13 HD
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/htrTt5k3/vision-tv-musica.png",VISION TV HD
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
