@@ -227,21 +227,21 @@ https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/y84pKzkr/TU-CINE-VU-TV.png",TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/fyjzHNKB/CINE-REAL.png",CINE REAL HD | US
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/cHGgXXHj/CINE-REALVU-TV.png",CINE REAL HD | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/2yPv7hbf/CINE-SURE-O.png",Cine Sureño olympusat | HD | Estados Unidos
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/LsHGLMk0/CINE-SURE-O-VU-TV.png",Cine Sureño olympusat | HD | Estados Unidos
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/3wcgxs8R/JUNTOS-ESP.png",Juntos olympusat| HD | Estados Unidos
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/vBp4cXRX/JUNTOS-VU-TV.png",Juntos olympusat| HD | Estados Unidos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/7L84r67Y/HORRIFY-ESP.png",Horrorfy olympusat | HD | Estados Unidos
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/zfrpRSNz/HORRIFY-VU-TV.png",Horrorfy olympusat | HD | Estados Unidos
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/jjVKknzq/CHIQUILINES.png",CHIQUILINES
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/qRnmFJTL/CHIQUILINES-VU-TV.png",CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-#EXTINF:-1 group-title="ESTILO DE VIDA 1" tvg-logo="https://i.postimg.cc/hvb03JKQ/Saber-Mas-Esp.png",SABER MAS
+#EXTINF:-1 group-title="ESTILO DE VIDA 1" tvg-logo="https://i.postimg.cc/W1L4RSgw/SABER-MAS-VU-TV.png",SABER MAS
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/prRC4SYc/EXPLORE-ESP.png",Explore by TVPlayer (ES) * |HD|
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.postimg.cc/PJD0jbnB/EXPOLRE-BY-PLAYER-VU-TV.png",Explore by TVPlayer (ES) * |HD|
 https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/wjbV1yFg/FLASH-ESP.png",FLASH MUSIC /HD/
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Hxv7g594/FLASH-VU-TV.png",FLASH MUSIC /HD/
 https://flash-plex.amagi.tv/flash/master.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png", Amordiscos TV | CO
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
