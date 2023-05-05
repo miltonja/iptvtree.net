@@ -207,25 +207,25 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?WebM3UCL
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/BQZS6mdm/XTRA-VU-TV.png",XTRA TV HD
 https://cdn2.streamgato.us/xtratatv/xtratatv/chunklist_w1647313019.m3u8
-#EXTINF:-1 group-title="CINE SERIES" tvg-logo="https://i.postimg.cc/Dwhbjrj4/RAKUTEN-ACCION-TV.png",RAKUTEN ACCION
+#EXTINF:-1 group-title="CINE SERIES" tvg-logo="https://i.postimg.cc/mZCCYS1H/RAKUTEN_ACCION_VU_TV.png",RAKUTEN ACCION
 https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
-#EXTINF:-1 group-title="CINE SERIES" tvg-logo="https://i.postimg.cc/ryhTQDn0/RETRO-PLUS-MOVIES.png",RETROPLUS 3
+#EXTINF:-1 group-title="CINE SERIES" tvg-logo="https://i.postimg.cc/156KCQgJ/RETRO_PLUS_MOVIES_VU_TV.png",RETROPLUS 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/HasBahCa.m3u8
 #EXTINF:-1 group-title="Amerika_BRASIL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71LOnifsRIL.png",VIX CINE | UHD
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1",GDM TELEVISION
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHkXn1yw/GDM_VU_TV.png",GDM TELEVISION
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png",AlmayaTV
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/vHyZxJVp/ALMAYA-VU-TV.png",AlmayaTV
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Ax55kJ6.png",DAN TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/rpsG4hbL/DAN-TV-VU-TV.png",DAN TV (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/xdMywJvD/tele-caribe.png",TELE CARIBE  TV
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/BQfdCD4z/TELECARIBE-VU-TV.png",TELE CARIBE  TV
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://www.mitv-hd.com/images/logo.png",MiTV
+#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/rsM7qXnk/MI-TV-ESP-VU-TV.png",MiTV
 https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/902Jt6vp/TOP-CINE.png",Top Cine olympusat | HD | Estados Unidos
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.postimg.cc/5Nnjdf7f/TOP-CINE-VU-TV.png",Top Cine olympusat | HD | Estados Unidos
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/1trZpKMq/TUCINE-ESP.png",TU CINE
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/y84pKzkr/TU-CINE-VU-TV.png",TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/fyjzHNKB/CINE-REAL.png",CINE REAL HD | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
