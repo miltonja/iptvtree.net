@@ -331,27 +331,27 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Px88sPj3/CANAL-SEIS-VU-TV.png",Multimedios (Mexico
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Px88sPj3/CANAL-SEIS-VU-TV.png",Multimedios Bajio
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Px88sPj3/CANAL_SEIS_VU_TV-.png",Multimedios Bajio
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Px88sPj3/CANAL-SEIS-VU-TV.png",Canal 6 Saltillo
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Px88sPj3/CANAL_SEIS_VU_TV-.png",Canal 6 Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Y0GM0W9g/CANAL-8-COSTA-RICA-VU-TV.png",Multimedios Costa Rica
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Y0GM0W9g/CANAL_8_COSTA_RICA_VU_TV-.png",Multimedios Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/rsJ38yGW/RCG-MEDIOS-VU-TV-PLAYER.png",RCG MEDIA HD
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/rsJ38yGW/RCG_MEDIOS_VU_TV_PLAYER.png",RCG MEDIA HD
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/DZmcMq5t/TELEMAX-ARGENTINA-VU-TV-PLAYER.png",TELEMAX ARGENTINA
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/DZmcMq5t/TELEMAX_ARGENTINA_VU_TV_PLAYER.png",TELEMAX ARGENTINA
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/7PdHCwz4/CANAL-10-RIONEGRO-VU-TV-PLAYER.png",CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Bnpm0HjN/Telemax.png",TELEMAX MEXICO
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Njd9zLFX/TELEMAX-MEXICO-VU-TV-PLAYER.png",TELEMAX MEXICO
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="EU_Spanish" tvg-logo="https://i.imgur.com/lyBkCzB.png",Cortos - Shorts TV
+#EXTINF:-1 group-title="EU_Spanish" tvg-logo="https://i.postimg.cc/RFLzgJV5/CORTOS-VU-TV-PLAYER.png",Cortos - Shorts TV
 https://shortstv-fast-spain-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/W1PTqLbt/TELE-11-PUERTORICO.png",TeleOnce (WLII-DT) (1080p)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/8PJTS5ZW/TELE-11-COSTARICA-VU-TV-PLAYER.png",TeleOnce (WLII-DT) (1080p)
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png",Telemundo Puerto Rico
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://i.postimg.cc/2yvGmhM3/TELEMUNDO-VU-TV.png",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/wx08wXdd/TELERITMO-2021.png",Teleritmo
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/xjxnbHXB/TELERITMO-VU-TV-PLAYER.png",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.imgur.com/zK1YcpJ.png",Mega TV (Jaen)
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
