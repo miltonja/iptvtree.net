@@ -355,13 +355,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.imgur.com/zK1YcpJ.png",Mega TV (Jaen)
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png",VH1 TV HD
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://i.postimg.cc/Gpy698Ww/VH1-VU-TV-PLAYER.png",VH1 TV HD
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1529767847&rn=-811303751&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/tRsTP33M/PUNTA-CANA-TV-ESP.png",Punta Cana TV (720p)
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/bJT8gVq9/CANAL-8-PUNTA-CANA-VU-TV.png",Punta Cana TV (720p)
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://i.imgur.com/5LOhDq4.png",Panavisión | SD | Venezuela
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://i.postimg.cc/MKw3qZbH/PANAVISION-VU-TV-PLAYER.png",Panavisión | SD | Venezuela
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1661923004.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/x5Mdzwv.png",teleSUR (1080p)
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/wMRzzqh0/TELESUR-VU-TV.png",teleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/SK5Hph5K/TVP-OBREGON.png",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w264025831_b1428000_sleng.m3u8
