@@ -23,7 +23,7 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 http://181.78.12.119:16123/play/a041/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/cJpg55WV/WIN-SPORTS-BALON-AZUL-VU-TV.png",➾ CO | Win Sports + FEB-11
 http://181.78.22.97:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports SD
 http://181.175.41.170:8000/play/a0jq
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports  HD
 http://177.93.60.43:5800/play/a0dg/index.m3u8
