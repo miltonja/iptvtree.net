@@ -341,7 +341,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/dVw5p4VL/Telemax-Argentina.png",TELEMAX ARGENTINA
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png",CANAL 10 RIO NEGRO
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/7PdHCwz4/CANAL-10-RIONEGRO-VU-TV-PLAYER.png",CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Bnpm0HjN/Telemax.png",TELEMAX MEXICO
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
