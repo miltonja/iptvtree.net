@@ -23,7 +23,7 @@ http://190.27.253.211:8000/play/a07g/index.m3u8
 http://181.78.12.119:16123/play/a041/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/cJpg55WV/WIN-SPORTS-BALON-AZUL-VU-TV.png",➾ CO | Win Sports + FEB-11
 http://181.78.22.97:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports SD
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports
 http://181.175.41.170:8000/play/a0jq
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/7Z9kFYs5/WIN-SPORTS-VU-TV.png",CO | Win Sports  HD
 http://177.93.60.43:5800/play/a0dg/index.m3u8
@@ -269,33 +269,33 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 http://iptv.streamhispanatv.net:25461/playgt/123456/105
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/d3T8qcm0/CANAL-34-SAN-LUIS-VU-TV.png",CANAL 34 HD
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/rwvbNqz8/INWONDER-VU-TV.png",InWonder (Mexico)
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/ncKkR5pt/INWONDER-VU-TV.png",InWonder (Mexico)
 https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Spain" tvg-logo="https://i.postimg.cc/SRFvbhwy/INFAST-VU-TV.png",INFAST
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.postimg.cc/ZY28wH6L/INFAST-VU-TV.png",INFAST
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelatam-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="Spain" tvg-logo="https://i.postimg.cc/5ycqLd2g/IDEAS-EN-5-MINUTOS.png",Ideas en 5 Minutos
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.postimg.cc/q7WyMX4L/IDEAS-EN-5-MINUTOSVU-TV.png",Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/2jqkD1K3/ACAPULCO-SHORE-ESP.png",MTV Shore | Pluto TV Espanha
+#EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/9MJ2Y10P/ACAPULCO-SHORE-VU-TV.png",MTV Shore | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/VNMqpsPh/MTV-SHORE-ESP.png",MTV Acapulco Shore | Pluto TV EUA
+#EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/sg74QNHL/ACAPULCO-MTV-SHORE-VU-TV.png",MTV Acapulco Shore | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/90n4my14/logo-miami-tv.png",Miami TV
+#EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/ydNjXb4y/MIAMI_TV_VU_TV-.png",Miami TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/yNFxS8hw/AZTECA-UNO-SEP.png",AZTECA UNO HD
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/05ZVCFfK/AZTECA-UNO-VU-TV-PLAYER.png",AZTECA UNO HD
 http://tvstarlife.com:25461/live/geovany/geovany/27241.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/L628Q4QG/AZTECA-7.png",Azteca 7
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/tTBFhQjX/AZTECA-7-VU-TV.png",Azteca 7
 http://tvstarlife.com:25461/live/geovany/geovany/5135.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/GWk6lTX.png",Canal 12 (XETW-TDT) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/FF2VGvSR/CANAL-12-VU-TV.png",Canal 12 (XETW-TDT) (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/d3d12yB8/TESTAMADE.png",TasteMade (Mexico)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/HxFXS0VK/TASTEMADE-VU-TV.png",TasteMade (Mexico)
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png",Box Hits (576p)
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/yYLQPt7r/BOX-HITS-VU-TV-PLAYER.png",Box Hits (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.postimg.cc/cLC41tTJ/ridiculousness-esp.png",MTV Ridiculousness
 http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=66d76556-8d6c-11ed-8742-f7590bf4ff5d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02491c57-00f8-4b69-a814-92e8e0299ddf&userId=&serverSideAds=true
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/SKyCcnQj/TVRI-Spor-MODIF.png",TVRI SPORTS INDONESIA ðŸ‡®ðŸ‡©
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/8CM27BxH/TVRI-SPORTS-VU-TV-PLAYER.png",TVRI SPORTS INDONESIA ðŸ‡®ðŸ‡©
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/DzrrckyT/Pink-Thriller-logo.png",THRILL SPORTS TV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/rFzFK3jN/PINK-THRILLER-SPORTS-VU-TV-PLAYER.png",THRILL SPORTS TV
 https://stitcheraws.unreel.me/wse-node05.powr.com/live/60ad16189590a654243e9655/HasBahCa.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/wT8wgYj8/World-strongmen-logo-1.png",Strongman Champions League
 https://dai.google.com/linear/hls/event/09xphPXPS4qRlr_PAIrkVA/master.m3u8
