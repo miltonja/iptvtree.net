@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="⭐️ Tv España" tvg-logo="https://i.postimg.cc/wT5XBSYF/ODISEA-VU-TV.png",ODISEA
 http://45.141.194.9:9000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/wMxCxDSq/WIN-SPORTS-VERDE-VU-TV-PLAYER.png",➾ CO | Win + HD ABRIL 28
+http://181.78.24.67:8010/play/a05w/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/mZCg4n36/WIN-SPORTS-PLUS-PRUEBA-VU-TV-PLAYER.png",➾ CO | Win + HD ABRIL 28
 http://177.93.60.43:5800/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/mZCg4n36/WIN-SPORTS-PLUS-PRUEBA-VU-TV-PLAYER.png",➾ CO | Win + ABRIL 28
@@ -19,7 +21,7 @@ http://181.39.202.98:9993/play/a17i/index.m3u8
 http://200.6.189.28:8000/play/a05z
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/cJpg55WV/WIN-SPORTS-BALON-AZUL-VU-TV.png",➾ CO | Win Sports +
 http://190.27.253.211:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/cJpg55WV/WIN-SPORTS-BALON-AZUL-VU-TV.png",➾ CO | Win Sports + FEB-19
+#EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/wMxCxDSq/WIN-SPORTS-VERDE-VU-TV-PLAYER.png",➾ CO | Win Sports + FEB-19
 http://181.78.12.119:16123/play/a041/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/cJpg55WV/WIN-SPORTS-BALON-AZUL-VU-TV.png",➾ CO | Win Sports + FEB-11
 http://181.78.22.97:8000/play/a03j/index.m3u8
