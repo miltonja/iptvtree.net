@@ -389,27 +389,27 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 http://live.limplay.ml/limtv.m3u8
 #EXTINF:-1 group-title="Familiares" tvg-logo="https://i.postimg.cc/pdM35mN9/TIGUERITOS-HD-VU-TV-PLAYER.png",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/6QZdmhQ3/CANAL-INTITUCIONAL-VU-TV.png",CANAL INSTITUCIONAL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/yxfVX6L0/CANAL_INSTITUCIONAL_VU_TV_PLAYER.png",CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/FsrFCbZx/LA-RED-VU-TV-PLAYER.png",LA RED TV
+#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/YCM5qB8H/LA-RED-VU-TV-PLAYER.png",LA RED TV
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",Cítrico TV (240p)
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/3JctzM61/CITRICO-VU-TV.png",Cítrico TV (240p)
 https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/sJfB0AE.png",X TV (Chachapoyas)
+#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/wjfZgfvx/X-TV-VU-TV.png",X TV (Chachapoyas)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/pjcWDJW.png",TPTO Channel
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/X7XDxKLT/TPTO-CHANNEL-VU-TV.png",TPTO Channel
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://makaoradio.com/wp-content/uploads/2021/06/makao_new_332.png",Makao TV
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/pLQWXtjQ/MAKAO-RADIO-Y-TV-VU-TV.png",Makao TV
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/dQ5pT9m5/NIM-TV.png",Nim TV
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/Y2yf85hx/NIM-VU-TV-PLAYER.png",Nim TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.postimg.cc/44jPvsN6/ondatv.png",ONDA TV TV
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://i.postimg.cc/SsqR6f09/ONDA-TVVU-TV.png",ONDA TV TV
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://i.postimg.cc/wBY8qcD0/ONDA-WEB-RADIO.png",ONDA WEB RADIO TV
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://i.postimg.cc/3xmD2RyP/ONDA-WEB-RADIO-VU-TV-PLAYER.png",ONDA WEB RADIO TV
 http://178.33.224.197:1935/ondaradioweb/ondaradioweb/HasBahCa.m3u8
-#EXTINF:-1 group-title="ITALIA" tvg-logo="https://i.postimg.cc/SNVZm8q5/El-Nueve.png",EL NUEVE MEXICO TV
+#EXTINF:-1 group-title="ITALIA" tvg-logo="https://i.postimg.cc/gcq1Jqkh/EL-NUEVE-MEXICOVU-TV-PLAYER.png",EL NUEVE MEXICO TV
 http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/tTBvcy2r/NRT-MEXICO.jpg",NRT. MEXICO TV
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/y8Hqn16M/NRT-MEXICO-VU-TV-PLAYER.png",NRT. MEXICO TV
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/s2fNT6zQ/VEVO-COUNTRY.png",VEVO COUNTRY | HD
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live.m3u8
