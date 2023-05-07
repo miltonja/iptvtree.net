@@ -365,7 +365,7 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1661923004.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/wMRzzqh0/TELESUR-VU-TV.png",teleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/KjpPSmH5/TVP-OBREGON-VU-TV.png",TVP Obregon
+#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/Z5V3g8Wh/TVP-OBREGON-VU-TV.png",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w264025831_b1428000_sleng.m3u8
 #EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/SQg7zGxz/TVPMAZATLAN-VU-TV.png",TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/chunklist_w1446913631_b1428000_sleng.m3u8
@@ -375,7 +375,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/chunklist_w61428662_
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/tgM0v6XS/CARACOL-TV-VU-TV.png",Canal Caracol (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/SNKMY2Mm/WOW-TV-SALVADOR.png",WOW TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/JhFRSvrW/WOW-EL-SALVADOR-VU-TV-PLAYER.png",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png",Canal Nets
 https://video.ejeserver.com/live/nets.m3u8
