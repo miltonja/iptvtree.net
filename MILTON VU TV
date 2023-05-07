@@ -365,15 +365,15 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1661923004.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/wMRzzqh0/TELESUR-VU-TV.png",teleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/SK5Hph5K/TVP-OBREGON.png",TVP Obregon
+#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/KjpPSmH5/TVP-OBREGON-VU-TV.png",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w264025831_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/ydZt1G4y/TVP-MAZATLAN.png",TVP Mazatlan
+#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/SQg7zGxz/TVPMAZATLAN-VU-TV.png",TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/chunklist_w1446913631_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/rsGHWtpd/TVP-LOS-MOCHIS.png",TVP Mochis
+#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/j2SHFDZ5/TVPLOS-MOCHIS-VU-TV.png",TVP Mochis
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/chunklist_w61428662_b1428000_sleng.m3u8
-#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/ZRdQmXC9/canal-7-mazatlan-tv.png",Canal 7 Mazatlan
+#EXTINF:-1 group-title="México" tvg-logo="https://i.postimg.cc/SQg7zGxz/TVPMAZATLAN-VU-TV.png",Canal 7 Mazatlan
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/cL3kKZ04/CANAL-CARACOL.png",Canal Caracol (720p) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/tgM0v6XS/CARACOL-TV-VU-TV.png",Canal Caracol (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/SNKMY2Mm/WOW-TV-SALVADOR.png",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
