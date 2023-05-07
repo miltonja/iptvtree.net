@@ -377,21 +377,21 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/JhFRSvrW/WOW-EL-SALVADOR-VU-TV-PLAYER.png",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png",Canal Nets
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/FF6D7QpL/NETS-COLOMBIA-VU-TV-PLAYER.png",Canal Nets
 https://video.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1-224x96.png",MEMORIAS TV
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/85pNJv1t/MEMORIAS-VU-TV-PLAYER.png",MEMORIAS TV
 https://mediacp.us:8081/8002/index.m3u8
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/yNkKxtN6/FRUTILLAR-TV.png",Frutillar TV
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.postimg.cc/5tjDZm2c/FRUTILLATR-VU-TV-PLAYER.png",Frutillar TV
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.postimg.cc/Vvk8tkZL/CANAL1-ESP.png",Canal 1
+#EXTINF:-1 group-title="COSTA RICA" tvg-logo="https://i.postimg.cc/hGZj8Mff/CANAL-1-VU-TV.png",Canal 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
-#EXTINF:-1 group-title="JOVENES Y ADULTOS" tvg-logo="https://i.imgur.com/Q6tUUF9.png",Lim TV
+#EXTINF:-1 group-title="JOVENES Y ADULTOS" tvg-logo="https://i.postimg.cc/3Rfwfcds/LIM-VU-TV.png",Lim TV
 http://live.limplay.ml/limtv.m3u8
-#EXTINF:-1 group-title="Familiares" tvg-logo="https://i.imgur.com/qu7ttMx.png",Tigueritos TV
+#EXTINF:-1 group-title="Familiares" tvg-logo="https://i.postimg.cc/pdM35mN9/TIGUERITOS-HD-VU-TV-PLAYER.png",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/tTJbV8Mx/CANAL-INSTITUCIONAL.png",CANAL INSTITUCIONAL
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/6QZdmhQ3/CANAL-INTITUCIONAL-VU-TV.png",CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/nJOVM6e.png",LA RED TV
+#EXTINF:-1 group-title="General" tvg-logo="https://i.postimg.cc/FsrFCbZx/LA-RED-VU-TV-PLAYER.png",LA RED TV
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",Cítrico TV (240p)
 https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
