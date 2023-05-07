@@ -411,29 +411,29 @@ http://178.33.224.197:1935/ondaradioweb/ondaradioweb/HasBahCa.m3u8
 http://tvstarlife.com:25461/live/geovany/geovany/5137.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/y8Hqn16M/NRT-MEXICO-VU-TV-PLAYER.png",NRT. MEXICO TV
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/s2fNT6zQ/VEVO-COUNTRY.png",VEVO COUNTRY | HD
+#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/hjJqJRdy/VEVO-COUNTRY-VU-TV-PLAYER.png",VEVO COUNTRY | HD
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/Wz6bsTsY/VEVO-TV-LATINO.png",VEVO Latino | HD
+#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/Ls8Sp16M/VEVO-LATINO-VU-TV-PLAYER.png",VEVO Latino | HD
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live_7.m3u8?app_key=7d2db34e-e406-4d03-bdf5-74556e61040d&partner_id=pluto_tv&playout_channel_id=634387d4-169a-45db-a7e3-10e4e02fbd67&site_id=5cba135ce338f9153dc194c0
-#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/6p8kKbSk/VEVO-POP-TV.png",VEVO POP | HD
+#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="https://i.postimg.cc/wvSYL456/VEVO-POP-VU-TV-PLAYER.png",VEVO POP | HD
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live_9.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/9Qt3MsxZ/EURO-SPORTS-1.png",➾ EUROSPORT 1
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/K8FF0W6j/EURO-SPORTS-1-VU-TV-PLAYER.png",➾ EUROSPORT 1
 http://51.15.9.155/EUROSPORT_1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/cLNRhzdD/EURO-SPORTS-2.png",➾ EUROSPORT 2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Dz2DGktQ/EURO-SPORTS-2-VU-TV-PLAYER.png",➾ EUROSPORT 2
 http://51.15.9.155/EUROSPORT_2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/fRzj0ChM/MAT4.png",➾ Match TV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/fLyrH7WJ/MAT-4-VU-TV-PLAYER.png",➾ Match TV
 http://194.143.148.28/MatchHD/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/SKyCcnQj/TVRI-Spor-MODIF.png",TVRI Sport HD
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/8CM27BxH/TVRI_SPORTS__VU_TV_PLAYER.png",TVRI Sport HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/J0YfSkyX/Logo-Web-b92ccb62f0bebf405187d18e5deab303.png",CIUDAD MAGICA TV HD
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/qRFZWtgQ/CIUDAD-MAGICA-VU-TV-PLAYER.png",CIUDAD MAGICA TV HD
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-#EXTINF:-1 group-title="PCIA BS AS" tvg-logo="https://i.postimg.cc/3x8PD7RK/CANAL-10-PERGAMINO.png",CANAL 10 Pergamino
+#EXTINF:-1 group-title="PCIA BS AS" tvg-logo="https://i.postimg.cc/DfJ20LQv/CANAL-10-PERGAMINOVU-TV-PLAYER.png",CANAL 10 Pergamino
 https://panel.dattalive.com/8134/8134/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/PqtM8rrp/RADIO-MIAMI-TV.png",RADIO MIAMI TV
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/mr4tzF0n/RADIO-MIAMI-TV-VU-TV-PLAYER.png",RADIO MIAMI TV
 https://stmv.video.gmpro.top/miamitv/miamitv/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Dwk4WxfS/OXIGENO-TV-PNG-1.png",OXIGENO TV HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/CdTrLWGq/OXIGENO-VU-TV-PLAYER.png",OXIGENO TV HD
 https://stmv.video.gmpro.top/oxigeno/oxigeno/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/hG2jGRrg/RCK-TV.png",RCK TV HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/2yBXYzZY/RCK-VU-TV-PLAYER.png",RCK TV HD
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/HasBahCa.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/qqGgfX6T/TV-LOBO.png",TV LOBO HD| PE
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
