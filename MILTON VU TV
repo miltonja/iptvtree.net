@@ -437,13 +437,13 @@ https://stmv.video.gmpro.top/oxigeno/oxigeno/playlist.m3u8
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/HasBahCa.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/qqGgfX6T/TV-LOBO.png",TV LOBO HD| PE
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/xThb31Cy/CANAL-9-RESISTENCIA-ESP.png",CANAL NUEVE HD| PE
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/JnjD4qsF/CANAL_NUEVE_RESISTENCIA_VU_TV_PLAYER.png",CANAL NUEVE HD| PE
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/nL9j0Bty/EL-TRECE-ESP.png",EL TRECE HD| PE
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/FKdkwmNN/EL_TRECE_VU_TV_PLAYER.png",EL TRECE HD| PE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/kg7KMhbk/DHE-HD.png",DHE HD| PE
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/1zkVQT36/DHE__VU_TV_PLAYER.png",DHE HD| PE
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es",NET TV 27.2 TDA HD
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/9frwZGJZ/NET-VU-TV-PLAYER.png",NET TV 27.2 TDA HD
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/C5TTCz7n/MAS-FM-95-9.png",MAS FM 95.9 HD| PE
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
