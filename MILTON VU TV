@@ -559,23 +559,23 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/H4SFkx6.png",El Histonauta TV (360p)
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/J0LRmsgJ/ESTRELLA-TV-GAMES.png",Estrella Games (1080p)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/K8PVLz1L/ESTRELLA-GAMES-VU-TV-PLAYER.png",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/HRrkhLq.png",Estrella News (1080p)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/43GDFcDB/ESTRELLA-NEWS-VU-TV-PLAYER.png",Estrella News (1080p)
 https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/HRrkhLq.png",Estrella News (1080p)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/43GDFcDB/ESTRELLA-NEWS-VU-TV-PLAYER.png",Estrella News (1080p)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/pXWqW81C/Estrella-TV-2009-Logo.png",Estrella TV (1080p)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/J4BSrKmp/ESTRELLA-TV-VU-TV-PLAYER.png",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.postimg.cc/8C4x0B3G/euronews-old-euro-news-logo.png",Euronews en Español
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.postimg.cc/mZn0WKxc/EURO-NEWS-VU-TV-PLAYER.png",Euronews en Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/g08jKfRY/mexiquense.png",Mexiquense TV (720p)
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/6q8gGfZ5/MEXIQUENSE-VU-TV-PLAYER.png",Mexiquense TV (720p)
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Milenio Televisión Noroeste (720p) [Not 24/7]
+#EXTINF:-1 group-title="MEXICO"tvg-logo="https://i.postimg.cc/fLT6MNTd/MILENIO-VU-TV-PLAYER.png",Milenio Televisión Noroeste (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/JCBZaHf.png",Noticias Canal 10 (360p) [Not 24/7]
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/Jzjwqx2s/CANAL-10-VU-TV.png",Noticias Canal 10 (360p) [Not 24/7]
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/8dUS3Ih.png",Novelísima [Not 24/7]
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.postimg.cc/zBt4BcVc/NOVELISIMA-VU-TV-PLAYER.png",Novelísima [Not 24/7]
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MNqBa1f.png",Televisa Piedras Negras (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
