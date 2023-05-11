@@ -65,7 +65,7 @@ https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/Gp8GQSWQ/TOP-MAX-VU-TV.png",TechScience 365 (360p)
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/qBDL8YZN/THE-MOST-EXTREME-VU-TV-PLAYER.png",Xtrema Animal (360p)
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/cL521LPp/THE-MOST-EXTREME-VU-TV-PLAYER.png",Xtrema Animal (360p)
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.postimg.cc/rp5HckVK/CINE-FRIKI-VU-TV-PLAYER.png",Cine Friki
 https://dztce7fuvmwz4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tgvv11385xjtm/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -513,7 +513,7 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?PlaylistM
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/GhqxM5KT/SHOWEN-VU-TV-PLAYER.png",ShowVen TV | VE
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/BnVhjhwD/CANTINA-TV-VU-TV-PLAYER.png",Cantina TV | VE
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/s2kLS0jK/CANTINA-VU-TV-PLAYER.png",Cantina TV | VE
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Y9b8wbgh/VALE-VU-TV-PLAYER.png",Vale TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
@@ -553,11 +553,11 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/65nzhDff/BARBE-TV-VU-TV-PLAYER.png",BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/Hx6FdFhy/AGENDA-56-VU-TV-PLAYER.png",AGENDA 56TV
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.postimg.cc/XvGhr0bp/AGENDA-54-VU-TV-PLAYER.png",AGENDA 56TV
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YDp8MlN.png",Canal 44 Chihuahua (720p) [Not 24/7]
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/15BbTHB5/CANAL-44-VU-TV-PLAYER.png",Canal 44 Chihuahua (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/H4SFkx6.png",El Histonauta TV (360p)
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.postimg.cc/sxy0HQZh/HISTONAUTA-VU-TV-PLAYER.png",El Histonauta TV (360p)
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/K8PVLz1L/ESTRELLA-GAMES-VU-TV-PLAYER.png",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
@@ -583,35 +583,35 @@ https://ythls.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/vkT4zq7.png",Televisa Zacatecas (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/W4xwCdl.png",TRC Televisión (San Francisco de Campeche | Campeche)
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/P5q0kwVb/TRC_VU_TV_PLAYER.png",TRC Televisión (San Francisco de Campeche | Campeche)
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/BzQphbw.png",UCL (720p)
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/1tCZk1DB/UCL-CHILE-VU-TV.png",UCL (720p)
 http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVKroNW.png",Vallenato Internacional (720p) [Not 24/7]
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/d0F6Y7BQ/VALLENATO-INTERNACIONAL-VU-TV-PLAYER.png",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/EY0DlT0.png",XHSDD-TDT (15tv Sabinas)
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/nzwsV5vV/15-TV-SABINAS-VU-TV-PLAYER.png",15 TV SABINAS  
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png",MUZZIK  HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Pr7h2Dj7/MUZZIK-VU-TV-PLAYER.png",MUZZIK  HD
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/J4sM6F3y/MUZZIC-R-R.png",MUZZIK  R&R HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/4d9zMV7x/MUZZIC-R-R-VU-TV-PLAYER.png",MUZZIK  R&R HD
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/T1kZxnm2/MUZZIC-PIOPSTAR.png",MUZZIK HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/qBKLZVyx/MUZZIC-POPSTAR-VU-TV-PLAYER.png",MUZZIK HD
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/VvYWRTJ5/MUZZIC-WWM.png",MUZZIK HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/g05VNN07/MUZZIC-WWM-VU-TV-PLAYER.png",MUZZIK HD
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/rF5f5vQG/MUZZIC-TIKTAK.png",MUZZIK TIKTAK HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0yVdJ81P/MUZZIC-TIKTAK-VU-TV-PLAYER.png",MUZZIK TIKTAK HD
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/s1CfJph3/MUZZIK-JEKA.png",MUZZIK JEKA HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/gkqKmVMw/MUZZIC-JEKA-VU-TV-PLAYER.png",MUZZIK JEKA HD
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/0yHg4zJd/MUZZIK-Z-Z.png",MUZZIK Z&Z  HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/h4pKQw3c/MUZZIC-Z-Z-VU-TV-PLAYER.png",MUZZIK Z&Z  HD
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/fTCkJf6z/MUZZIK-SENSE.png",MUZZIK SENSE  HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/qMq4sL9n/MUZZIC-SENSE-VU-TV-PLAYER.png",MUZZIK SENSE  HD
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png",MUZZIK  HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Pr7h2Dj7/MUZZIK-VU-TV-PLAYER.png",MUZZIK  HD
 https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/vHq0dKb5/MUZZIK-FLASHBACK.png",MUZZIK FLASH BACK  HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/8CsdRqTW/MUZZIC-FLASH-BACK-VU-TV-PLAYER.png",MUZZIK FLASH BACK  HD
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Hx0VQFBK/MUZZIK-MOBA.png",MUZZIK MOBA  HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/c4Ncp9cy/MUZZIC-MOBA-VU-TV-PLAYER.png",MUZZIK MOBA  HD
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-RPgMJ90DCeU/XjtIXwH4L3I/AAAAAAAAvqs/HoaDT_pgUukebIWHY7ndUkZs1fiQerE_ACK8BGAsYHg/s0/2020-02-05.png",Canal 10 Rio Negro | AR
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
