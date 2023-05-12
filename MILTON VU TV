@@ -619,17 +619,17 @@ https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png",Telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/iwJ42rD.png",TRA 2 (720p)
-https://live.teledom.info:3242/live/teleradiohdlive.m3u8
-#EXTINF:-1 group-title="Classic" tvg-logo="https://i.imgur.com/jdnHci0.png",TVS Retro
+#EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/13zgPHq3/TRA-2-CANAL-79-VU-TV-PLAYER.png",TRA 2 (720p)
+https://live.teledom.info:3242/live/teleradiohdlive.m3u8  
+#EXTINF:-1 group-title="Classic" tvg-logo="https://i.postimg.cc/Y0JXk9Xp/TVS-VU-TV-PLAYER.png",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://trace.tv/trace-urban/wp-content/uploads/2022/11/TraceUrban_Logo_colour_578x278-2.png",TRACE URBAN HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/W1QJnZdp/TRACE-URBAN-VU-TV-PLAYER.png",TRACE URBAN HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="BRAZIL",SIC TV HD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/02k9SHS1/California-Music-Channel-Logo.png",CMC TV MUSIC CALIFORNIA HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo=" https://i.postimg.cc/xTwG1B91/CMC-MUSIC-VU-TV-PLAYER.png",CMC TV MUSIC CALIFORNIA HD
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/90jZ1jhp/CMC-MUSIC.jpg",CMC TV MUSIC USA HD
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/HkNqnYV7/CMC-CALIFORNIA-VU-TV-PLAYER.png",CMC TV MUSIC USA HD
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 #EXTINF:-1 group-title="ARGENTINA"tvg-logo="https://i.postimg.cc/ryr4Qwp6/XTREMA-AVENTURAS-TV-VU-TV-PLAYER.png",Aventuras TV (360p) HD
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
@@ -683,23 +683,23 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 http://190.122.96.187:8888/http/006?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/Hn4bQXwk/XTREMA-TV-SUPER-CLASSICS.png",Link TV | AR
 https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/PrhVrrXb/limon-tv.png",Limon TV | CR
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/XvkdYJvV/LIMON-TV-VU-TV-PLAYER.png",Limon TV | CR
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png",TV Curre | CR
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/DfRk7QYP/TV-CURRE-VU-TV-PLAYER.png",TV Curre | CR
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png",Hits 360 | DO
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Nj6wJyD7/HITS-360-VU-TV-PLAYER.png",Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png",MMC - Freetv.com | US
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png",Autentica TV | PE
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/J42zjBnT/AUTENTICA-TV-VU-TV-PLAYER.png",Autentica TV | PE
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png",TELEMAX 26.3 TDA HD
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/5NTfXd7T/TELEMAX-MEJOR-VU-TV-PLAYER.png",TELEMAX 26.3 TDA HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png",CANAL 4 HD JUJUY
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/X7QQLnS1/CANAL-4-JUJUY-VU-TV-PLAYER.png",CANAL 4 HD JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
-#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png",MULTIVISION
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://i.postimg.cc/Wp9kfzzZ/MULTIVISION-VU-TV-PLAYER.png",MULTIVISION
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
-#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png",TVMAX HD
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://i.postimg.cc/Fs3JFZGy/TV-MAX-VU-TV-PLAYER.png",TVMAX HD
 https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://lunatvdo.b-cdn.net/wp/wp-content/uploads/2022/06/logo460x180.png",LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
