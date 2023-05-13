@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="⭐️ Tv España" tvg-logo="https://i.postimg.cc/wT5XBSYF/ODISEA-VU-TV.png",ODISEA
-http://45.141.194.9:9000/play/a01m/index.m3u8
+
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/mZCg4n36/WIN-SPORTS-PLUS-PRUEBA-VU-TV-PLAYER.png",➾ CO | Win + ABRIL 28
 http://179.1.87.75:8098/play/a044/index.m3u8
 #EXTINF:-1 group-title="|CO| Colombia" tvg-logo="https://i.postimg.cc/cCDv39xn/WIN-SPORTS-PLUS-ROJO-VU-TV.png",➾ CO | Win + ABRIL 28
@@ -123,7 +122,7 @@ https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8?ads.content_page_url=htt
 https://live.limplay.ml/limtv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/PqcHzRp5/SUPER-TV-VU-TV.png",SUPER TV HD
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:-1 tvg-id="CinemaPlus.co"group-title="PELICULAS" tvg-logo="https://i.postimg.cc/qvwPL9YY/CINEMA-esp.png",Cinema + (720p)
+#EXTINF:-1 tvg-id="CinemaPlus.co"group-title="PELICULAS" tvg-logo="https://i.postimg.cc/BQPvw1Dg/CINEMA-VU-TV-PLAYER.png",CINEMA +
 http://hvtrafico.ddns.net:1935/cinema720/cinema720.stream/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.postimg.cc/8kyCjtws/PLANETA-TV-MOVIES-VU-TV.png",PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
@@ -701,25 +700,25 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/fcnRf1f.png",FTV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png",Miami TV Live
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/ydNjXb4y/MIAMI_TV_VU_TV-.png",Miami TV Live
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png",Miami TV
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/ydNjXb4y/MIAMI_TV_VU_TV-.png",Miami TV
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png",Miami TV Colombia
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/ydNjXb4y/MIAMI_TV_VU_TV-.png",Miami TV Colombia
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://satcesc.com/wp-content/uploads/2013/11/Visit-X-TV.jpg",Visit-X
 http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/mDRxvwmY/MUSIC-TOP.png",MUSIC TOP
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/NjwGd6Tw/MUSIC-TOP-VU-TV-PLAYER.png",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://i.postimg.cc/YSMF7T4k/7-NN-TV-esp.png",7NN Noticias
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 group-title="Andalucía" tvg-logo="https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png",Cancionero TV
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://i.postimg.cc/05mCTvF1/CANCIONERO-TV-VU-TV-PLAYER.png",Cancionero TV
 http://89.140.229.4/hls1/cancionero.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://i.postimg.cc/D0Yyxrw4/Am-rica-Tev.png",America TeVe USA
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://i.postimg.cc/bY5C1Ln3/AMERICA-TV-VU-TV-PLAYER.png",America TeVe USA
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/GpsLpn2V/miami-tv.png",Miami TV
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/ydNjXb4y/MIAMI_TV_VU_TV-.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/jjvWzbK5/miami-tv-live.png",Miami TV
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/ydNjXb4y/MIAMI_TV_VU_TV-.png",Miami TV
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
