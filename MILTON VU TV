@@ -39,6 +39,8 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-id="USBC10000223W" tvg-chno="1257" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20230321T235932SQUARE.png_20230321235933.png" group-title="United States" , CNN RESUMEN
 https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="ESBC2700008SK" tvg-chno="4136" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png" group-title="Spain" , Just For Laughs
+https://36cd2ac3e37f411aa72b1d27cfd32791.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_JustForLaughsGags/playlist.m3u8?ads.wurl_channel=1191&ads.wurl_name=JustForLaughsGags&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="CULTURAL" tvg-logo="https://i.postimg.cc/fRZBLZ09/WATHER-GONE-VIRAL-VU-TV-PLAYER.png",WATHER GONE VIRAL
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/0jyK3W6r/IBEROAMERICA-VU-TV-PLAYER.png",IBEROAMERICA TV * |HD|
@@ -203,8 +205,6 @@ https://cdn2.streamgato.us/xtratatv/xtratatv/chunklist_w1647313019.m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 #EXTINF:-1 group-title="CINE SERIES" tvg-logo="https://i.postimg.cc/156KCQgJ/RETRO_PLUS_MOVIES_VU_TV.png",RETROPLUS 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/HasBahCa.m3u8
-#EXTINF:-1 group-title="Amerika_BRASIL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71LOnifsRIL.png",VIX CINE | UHD
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHkXn1yw/GDM_VU_TV.png",GDM TELEVISION
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.postimg.cc/vHyZxJVp/ALMAYA-VU-TV.png",AlmayaTV
